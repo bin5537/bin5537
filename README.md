@@ -1,4 +1,4 @@
 <h1 align="left">👋 bin5537</h1>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Image">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="350" alt="Profile Image">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bin5537&label=Profile%20views&color=0e75b6&style=flat" alt="bin5537" /> </p>
