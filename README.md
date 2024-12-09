@@ -3,7 +3,7 @@
 > #### 🌟 Language <br>
 > <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,php,lua" height=30 />
 
-> #### 📫 FrameWork <br>
+> #### 📫 FrameWork / Library <br>
 > <img src="https://skillicons.dev/icons?i=jquery,nodejs,electron,react" height=30 />
 
 > #### 🛠️ Tool <br>
