@@ -21,9 +21,6 @@
     <a href="https://github.com/bin5537">
     <img src="https://github-readme-stats.vercel.app/api?username=bin5537&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=ffffff" width=58% />
     </a>
-    <a href="https://github.com/bin5537">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bin5537&theme=react-dark&bg_color=20232a&hide_border=true" width=97.5%/>
-    </a>
 </section>
 
 <br>
