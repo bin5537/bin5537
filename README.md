@@ -16,7 +16,7 @@
 
 <section align="center">
     <a href="https://github.com/bin5537">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin5537&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=ffffff" width=39.5% />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin5537&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=ffffff" width=39.5% />
     </a>
     <a href="https://github.com/bin5537">
     <img src="https://github-readme-stats.vercel.app/api?username=bin5537&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&title_color=ffffff" width=58% />
