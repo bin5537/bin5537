@@ -7,7 +7,7 @@
 > <img src="https://skillicons.dev/icons?i=jquery,nodejs,electron,react,vue" height=30 />
 
 > #### 🛠️ Tool <br>
-> <img src="https://skillicons.dev/icons?i=windows,vscode,figma,xd,ps" height=30 />
+> <img src="https://skillicons.dev/icons?i=windows,vscode,xd,ps" height=30 />
 
 
 ---
