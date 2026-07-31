@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/bin5537/bin5537/main/github-metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/bin5537/bin5537/main/github-metrics.svg?v=1" width="100%" />
 
 <table width="100%">
   <tr>
