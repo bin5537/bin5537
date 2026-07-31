@@ -4,20 +4,24 @@
 
 <table width="100%">
   <tr>
-    <th width="50%">Language</th>
+    <th colspan="2">Language</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,dart,py,java,cpp,php,lua&theme=dark" height="38" /></td>
+  </tr>
+  <tr>
     <th width="50%">Framework &amp; Library</th>
+    <th width="50%">Backend &amp; DB</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,less,js,dart,php,lua&theme=dark" height="38" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue,react,flutter,jquery,electron&theme=dark" height="38" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue,react,flutter,tailwind,jquery,electron&theme=dark" height="38" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" height="38" /></td>
   </tr>
   <tr>
-    <th>Backend &amp; DB</th>
-    <th>Tools</th>
+    <th colspan="2">Tools</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="38" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,ps,xd&theme=dark" height="38" /></td>
+    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,ps,xd&theme=dark" height="38" /></td>
   </tr>
 </table>
 
