@@ -25,14 +25,13 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/bin5537/bin5537/main/github-metrics.svg?v=1" width="100%" />
-
 <table width="100%">
   <tr>
-    <td width="42%" align="center">
-      <img src="https://streak-stats.demolab.com?user=bin5537&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%" />
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/bin5537/bin5537/main/github-metrics.svg?v=2" width="100%" />
     </td>
-    <td width="58%" align="center">
+    <td width="50%" valign="top" align="center">
+      <img src="https://streak-stats.demolab.com?user=bin5537&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=bin5537&bg_color=0d1117&color=c9d1d9&line=34d399&point=ffffff&area=true&area_color=059669&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
     </td>
   </tr>
