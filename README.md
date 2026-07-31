@@ -8,8 +8,14 @@
     <th width="50%">Framework &amp; Library</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,dart,py,java,cpp,php,lua&theme=dark&perline=5" height="68" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue,react,flutter,tailwind,jquery,electron&theme=dark&perline=6" height="32" /></td>
+    <td align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="390" height="0" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,dart,py,java,cpp,php,lua&theme=dark&perline=5" height="68" />
+    </td>
+    <td align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="390" height="0" /><br>
+      <img src="https://skillicons.dev/icons?i=vue,react,flutter,tailwind,jquery,electron&theme=dark&perline=6" height="32" />
+    </td>
   </tr>
   <tr>
     <th>Backend &amp; DB</th>
