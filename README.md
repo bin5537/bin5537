@@ -45,10 +45,10 @@
 <br><br>
 
 <a href="https://github.com/bin5537">
-  <img src="https://github-readme-stats.vercel.app/api?username=bin5537&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&ring_color=34d399&count_private=true&cache_seconds=21600" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bin5537&theme=github_dark" height="170" />
 </a>
 <a href="https://github.com/bin5537">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin5537&layout=compact&hide=html,css&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&cache_seconds=21600" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bin5537&theme=github_dark" height="170" />
 </a>
 
 <br><br>
